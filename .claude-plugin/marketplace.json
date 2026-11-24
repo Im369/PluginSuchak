@@ -1,0 +1,14 @@
+{
+  "name": "pluginsuchak",
+  "description": "Plugins by Bhavesh Suchak",
+  "owner": {
+    "name": "Bhavesh Suchak"
+  },
+  "plugins": [
+    {
+      "name": "prompt-optimizer",
+      "source": "./plugins/prompt-optimizer",
+      "description": "Turns raw text into optimized, copy-ready prompts: full optimizer, quick mode, and per-platform tailoring."
+    }
+  ]
+}
