@@ -1,6 +1,0 @@
-{
-  "name": "prompt-optimizer",
-  "description": "Turns raw text into clear, copy-ready prompts: a full optimizer, a quick mode, and a platform tailor for Claude, ChatGPT, Gemini, Copilot, and more.",
-  "version": "1.1.0",
-  "keywords": ["prompt", "prompt-engineering", "optimize", "rewrite"]
-}
